@@ -12,3 +12,4 @@ export default function Toggle({ pressed, onToggle, onLabel='Compact ON', offLab
         </div>
     )
 }
+
